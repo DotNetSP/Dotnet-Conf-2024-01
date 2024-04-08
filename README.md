@@ -22,6 +22,10 @@ Formulário utilizado para inscrições: [**Microsoft Reactor**](https://develop
 
 Local: Microsoft Reactor - Rua Jaceru, 225 - Vila Gertrudes - São Paulo - SP - CEP: 04705-000
 
+Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela oportunidade e todo o apoio para promovermos esta edição local do .NET Conf no Microsoft Reactor em São Paulo-SP.
+
+---
+
 ![Banner do evento](img/banner.png)
 
 ![Publico](img/01.jpg)
